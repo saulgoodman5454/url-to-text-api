@@ -1,0 +1,7 @@
+{
+  "name": "url-to-text-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "@postlight/mercury-parser": "^2.2.0"
+  }
+}
